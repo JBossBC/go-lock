@@ -28,7 +28,7 @@ func init() {
 
 const defaultCancelTime = 1 * time.Second
 
-const defaultExpiresTime = 3 * time.Second
+const defaultExpiresTime = 10 * time.Second
 
 const defaultMaxOffsetTime = 100 * time.Millisecond
 const defaultReties = 2
